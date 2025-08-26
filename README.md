@@ -37,4 +37,4 @@ Além do código, há um vídeo explicativo mostrando os desafios enfrentados, a
 
 Cada pasta contém um arquivo `README.md` próprio, com instruções de uso, exemplos de requisição e explicações sobre a solução implementada.
 
-Para dúvidas ou sugestões, fique à vontade para abrir uma issue ou
+Para dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato!
